@@ -1,0 +1,1 @@
+A python-based CV program to identify the number of finger-like contours in a predefined area of interest and make requests to a local HTML web server hosted on an ESP12 to control LEDs dynamically based on user gestures. 
