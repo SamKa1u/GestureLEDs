@@ -22,11 +22,17 @@ A Computer vision program implemented in python to identify the number of finger
 
 ### Hardware
 
-* NodeMCU Esp12 Dev Board
-* 5 LEDs
-* Breadboard
-* Laptop
+  * NodeMCU Esp12 Dev Board
+  * 5 LEDs
+  * Breadboard
+  * Laptop
+  * Jumper cables
+  <div class = 'flex-col-2'>
+    <img src ='gestureLED_hardware.PNG'/>
+  </div>
 
+
+  
 
 ## Author
 
